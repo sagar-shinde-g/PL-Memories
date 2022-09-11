@@ -14,7 +14,7 @@ use Cloudinary\Transformation\Resize;
 
 // replace `cloudinary://my_key:my_secret@my_cloud_name` with your environment variable
 
-Configuration::instance('cloudinary://291218526993796:Rq84kQP-K95r25ti2V4E98pqWgk@sagar612?secure=true');
+
 
 
 
